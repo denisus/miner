@@ -215,14 +215,3 @@ function applyCell(x,y){
     applyCell(x+1,y);
     return;
 }
-
-// for(let i=0;i<10;i++){
-//     //console.log(i)
-//     setTimeout(()=>{console.log(i)},200*i);
-// }
-// for (let i = 0; i < 10; i++) {
-//     //console.log(i);
-//     setTimeout(function() {
-//         console.log(`The number is ${i}`);
-//     }, 2000);
-// }

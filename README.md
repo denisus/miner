@@ -1,1 +1,1 @@
-# miner
+# miner application
